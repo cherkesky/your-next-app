@@ -1,4 +1,4 @@
-# Your-Next-App - React Native Expo + Tailwind + Appwrite Boilerplate
+# Your-Next-App - React Native Expo + Tailwind + Appwrite + Router + Auth Boilerplate
 
 Installation:
 
@@ -35,4 +35,5 @@ To install and run the React Expo project, follow these steps:
 Enjoy using the React Expo project!
 
 # your-next-app
+
 # your-next-app
